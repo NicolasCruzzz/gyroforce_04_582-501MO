@@ -11,13 +11,19 @@ Ce site présente la faisabilité d'un *concept d'expérience multimédia* prés
 
 ## Résumé du projet
 
-Cette installation interactive oppose deux communautés dans une course multijoueur 4 contre 4. Le monde aura une esthétique humoristique et chaotique. Les joueurs utiliseront la puissance pour surpasser l’ambiance chaotique et cartoonesque. À l’aide du gyroscope de la manette, chaque communauté peut coopérer, communiquer et utiliser des pouvoirs pour modifier le parcours. L’expérience combine compétition, mouvement et interactions dans un univers conçu avec Unity.
+Cette installation interactive est une course de 8 joueurs (4 v 4). Le monde aura une esthétique humoristique et chaotique. Les joueurs utiliseront la puissance du traîneau pour surpasser l’ambiance chaotique et cartoonesque. À l’aide de l'inclinaison de la manette Wii, chaque communauté peut coopérer et communiquer. Pendant la course les joueurs peuvent récupérer des pouvoirs pour modifier le parcours. L’expérience combine compétition, mouvement et interactions dans un univers conçu avec Unity.
 
 ## Le parcours de l'interacteurs
 
-En entrant dans le studio, le joueur rejoint l’une des deux équipes et prend place devant le grand écran, séparé en deux parties verticales. Chaque équipe compte quatre joueurs. Lorsque la course commence, les joueurs utilisent le gyroscope de leur manette pour se déplacer vers la gauche ou vers la droite en inclinant celle-ci dans la direction souhaitée.
+En entrant dans le studio, un total de huit personnes se répartissent en deux équipes adverses. Dans l’équipe qu’il rejoint, chaque joueur doit s’asseoir sur l’une des quatre chaises numérotées de 1 à 4. Une fois assis, le joueur doit sélectionner dans le jeu le numéro correspondant à celui de sa chaise.
 
-Pendant la course, les quatre membres de chaque équipe doivent communiquer entre eux afin de décider les déplacements à effectuer. Lorsque le traîneau obtient un pouvoir, celui-ci est distribué aléatoirement pour un des quatres joueurs. Ces pouvoirs permettent de modifier le parcours de façon permanente. Les deux équipes doivent donc s’adapter rapidement aux changements. Le but est de communiquer efficacement afin de prendre les bonnes décisions et de remporter la course.
+Lorsque les joueurs des deux équipes sont prêts, ils peuvent lancer la course. Dès que celle-ci commence, les joueurs utilisent l’inclinaison de leur manette pour se déplacer vers la gauche ou vers la droite. La manette Wii doit être tenue à l’horizontale et inclinée dans la direction souhaitée.
+
+Pendant la course, les quatre membres de chaque équipe doivent communiquer entre eux afin de décider des déplacements à effectuer. Le traîneau avance à une vitesse lente et constante. Pour avancer plus rapidement que l’équipe adverse, les joueurs peuvent appuyer sur la touche d’accélération (A). Plus il y a de joueurs, parmi les quatre membres de l’équipe, qui maintiennent cette touche enfoncée, plus le traîneau accélère.
+
+Lorsque le traîneau obtient un pouvoir, celui-ci est attribué aléatoirement à l’un des quatre joueurs. Chaque pouvoir est associé au numéro du joueur qui le reçoit. Ces pouvoirs permettent de modifier le parcours de façon permanente. Les deux équipes doivent donc s’adapter rapidement aux changements.
+
+Le but est de communiquer efficacement afin de prendre les bonnes décisions, de coordonner les actions de l’équipe et de remporter la course.
 
 ## Comment le projet s'adapte pour un à plusieurs interacteurs
 
