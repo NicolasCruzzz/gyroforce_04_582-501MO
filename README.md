@@ -1,4 +1,4 @@
-# Titre du projet
+# Gyroforce
 
 Ce site présente la faisabilité d'un *concept d'expérience multimédia* présenté dans le cours *582-501MO Conception d'une expérience multimédia* au collège Montmorency enseigné par Thomas O Fredericks.
 
