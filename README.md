@@ -1,12 +1,12 @@
 # Gyroforce
 
-Ce site présente la faisabilité d'un *concept d'expérience multimédia* présenté dans le cours *582-501MO Conception d'une expérience multimédia* au collège Montmorency enseigné par Thomas O Fredericks.
+Ce site présente la faisabilité d'un _concept d'expérience multimédia_ présenté dans le cours _582-501MO Conception d'une expérience multimédia_ au collège Montmorency enseigné par Thomas O Fredericks.
 
 ## Équipe
 
-- Nicolas Cruz : technique 
-- Christian Mendoza : esthétique (visuel et son)
-- Nathan Salope : esthétique (visuel et son)
+- Nicolas Cruz : technique
+- Christian Mendoza : esthétique
+- Nathan Salope : esthétique
 - Xavier Martineau : programmation
 
 ## Résumé du projet
@@ -28,7 +28,6 @@ Le but est de communiquer efficacement afin de prendre les bonnes décisions, de
 ## Comment le projet s'adapte pour un à plusieurs interacteurs
 
 Dans la version actuelle, le jeu est pensé pour huit joueurs, répartis en deux équipes de quatre. Chaque joueur a sa propre manette et tout le monde suit la même course sur le grand écran. Pour que le jeu fonctionne avec moins de personnes, on pourrait garder deux équipes de même taille et faire des courses à deux contre deux ou à un contre un. Si une seule personne se présente, elle pourrait essayer le parcours en mode entraînement pour se familiariser avec les commandes et les pouvoirs.
- 
 
 ## Pourquoi ce projet est original ?
 
